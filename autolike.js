@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         auto liker
+// @name         instagram auto-like
 // @version      1.0
 // @author       Shi0n
 // @match        https://www.instagram.com/
@@ -40,6 +40,6 @@
         }
     }
 
-    setInterval(main, 0.5);
+    setInterval(main, 1.5);
     
 })();
