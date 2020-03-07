@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         instagram auto-like
 // @version      1.0
-// @author       Shi0n
+// @author       Shi0n - EternalChaos
 // @match        https://www.instagram.com/
 // ==/UserScript==
 
